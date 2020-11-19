@@ -20,8 +20,4 @@
 
 # Interna da tela de carros:
 
-<img src="https://user-images.githubusercontent.com/52508911/99715783-0f8fd200-2a86-11eb-886d-2e8815453459.png" alt="..." width="250" />
-<img src="https://user-images.githubusercontent.com/52508911/99715779-0ef73b80-2a86-11eb-8e91-63d3e840e355.png" alt="..." width="250" />
-<img src="https://user-images.githubusercontent.com/52508911/99715786-10286880-2a86-11eb-8e53-f20d6ea871e4.png" alt="..." width="250" />
-<img src="https://user-images.githubusercontent.com/52508911/99715776-0e5ea500-2a86-11eb-9310-217a55402beb.png" alt="..." width="250" />
-<img src="https://user-images.githubusercontent.com/52508911/99715775-0dc60e80-2a86-11eb-9245-5a32b92d713b.png" alt="..." width="250" />
+
